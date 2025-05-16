@@ -1,0 +1,33 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Unreal/Fellowship/Top_dow_/Top_Down/Content/EpicTemplates/TopDownTemplate/Maps/TopDown_Experiment.umap",
+				"C:/Unreal/Fellowship/Top_dow_/Top_Down/Content/EpicTemplates/TopDownTemplate/Blueprints/Core/ChainDummy.uasset",
+				"C:/Unreal/Fellowship/Top_dow_/Top_Down/Content/EpicTemplates/TemplateAgnostic/UI/Menus/W_ChooseOneOrTwoPlayer.uasset",
+				"C:/Unreal/Fellowship/Top_dow_/Top_Down/Content/EpicTemplates/TopDownTemplate/Blueprints/Core/BP_PlayerCharacter_TopDown.uasset",
+				"C:/Unreal/Fellowship/Top_dow_/Top_Down/Content/EpicTemplates/TopDownTemplate/Blueprints/Enemies/Orc/body.uasset",
+				"C:/Unreal/Fellowship/Top_dow_/Top_Down/Content/EpicTemplates/TopDownTemplate/Blueprints/Enemies/Orc/eye.uasset",
+				"C:/Unreal/Fellowship/Top_dow_/Top_Down/Content/EpicTemplates/TopDownTemplate/Blueprints/Enemies/Orc/eyebrows.uasset",
+				"C:/Unreal/Fellowship/Top_dow_/Top_Down/Content/EpicTemplates/TopDownTemplate/Blueprints/Enemies/Orc/Material.uasset",
+				"C:/Unreal/Fellowship/Top_dow_/Top_Down/Content/EpicTemplates/TopDownTemplate/Blueprints/Enemies/Orc/mouth.uasset",
+				"C:/Unreal/Fellowship/Top_dow_/Top_Down/Content/EpicTemplates/TopDownTemplate/Blueprints/Enemies/Orc/noise.uasset",
+				"C:/Unreal/Fellowship/Top_dow_/Top_Down/Content/EpicTemplates/TopDownTemplate/Blueprints/Enemies/Orc/Skin.uasset",
+				"C:/Unreal/Fellowship/Top_dow_/Top_Down/Content/EpicTemplates/TopDownTemplate/Blueprints/Enemies/Orc/ork3_PhysicsAsset.uasset",
+				"C:/Unreal/Fellowship/Top_dow_/Top_Down/Content/EpicTemplates/TopDownTemplate/Blueprints/Enemies/Orc/ork3_Skeleton.uasset",
+				"C:/Unreal/Fellowship/Top_dow_/Top_Down/Content/EpicTemplates/TopDownTemplate/Blueprints/Enemies/Orc/ork3.uasset",
+				"C:/Unreal/Fellowship/Top_dow_/Top_Down/Content/EpicTemplates/TemplateAgnostic/Blueprints/BP_GameInstance.uasset",
+				"C:/Unreal/Fellowship/Top_dow_/Top_Down/Content/EpicTemplates/TopDownTemplate/Blueprints/Enemies/BP_TopDownEnemy_Shooter.uasset",
+				"C:/Unreal/Fellowship/Top_dow_/Top_Down/Content/EpicTemplates/TopDownTemplate/Maps/TopDownExample_Floor2.umap",
+				"C:/Unreal/Fellowship/Top_dow_/Top_Down/Content/EpicTemplates/TopDownTemplate/Maps/TopDownExample_Floor3.umap",
+				"C:/Unreal/Fellowship/Top_dow_/Top_Down/Content/EpicTemplates/TopDownTemplate/Maps/TopDownExample_Floor4.umap",
+				"C:/Unreal/Fellowship/Top_dow_/Top_Down/Content/EpicTemplates/TemplateAgnostic/UI/W_GenericTemplateTitleMenu.uasset",
+				"C:/Unreal/Fellowship/Top_dow_/Top_Down/Content/EpicTemplates/TopDownTemplate/Blueprints/Enemies/BP_TopDownEnemy_Walker.uasset",
+				"C:/Unreal/Fellowship/Top_dow_/Top_Down/Content/EpicTemplates/TopDownTemplate/Blueprints/Weapons/BP_TopDownWeapon_MachineGun.uasset"
+			]
+		}
+	]
+}
