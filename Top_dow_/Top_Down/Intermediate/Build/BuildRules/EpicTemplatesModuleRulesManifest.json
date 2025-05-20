@@ -1,0 +1,10 @@
+{
+	"SourceFiles": [
+		"C:\\_Project\\Fellowship\\Top_dow_\\Top_Down\\Intermediate\\Source\\EpicTemplates.Build.cs",
+		"C:\\_Project\\Fellowship\\Top_dow_\\Top_Down\\Intermediate\\Source\\EpicTemplates.Target.cs",
+		"C:\\_Project\\Fellowship\\Top_dow_\\Top_Down\\Intermediate\\Source\\EpicTemplatesClient.Target.cs",
+		"C:\\_Project\\Fellowship\\Top_dow_\\Top_Down\\Intermediate\\Source\\EpicTemplatesEditor.Target.cs",
+		"C:\\_Project\\Fellowship\\Top_dow_\\Top_Down\\Intermediate\\Source\\EpicTemplatesServer.Target.cs"
+	],
+	"EngineVersion": "5.5.4"
+}
