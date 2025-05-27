@@ -744,6 +744,8 @@
 "..\Plugins\Experimental\Water\Intermediate\Build\Win64\x64\UnrealGame\Development\Water\Module.Water.3.cpp.obj"
 "..\Plugins\FX\Niagara\Intermediate\Build\Win64\x64\UnrealGame\Development\NiagaraAnimNotifies\Module.NiagaraAnimNotifies.cpp.obj"
 "..\Plugins\Experimental\PythonScriptPlugin\Intermediate\Build\Win64\x64\UnrealGame\Development\PythonScriptPluginPreload\Module.PythonScriptPluginPreload.cpp.obj"
+"..\Plugins\Experimental\WaterAdvanced\Intermediate\Build\Win64\x64\UnrealGame\Development\WaterAdvanced\Module.WaterAdvanced.cpp.obj"
+"..\Plugins\FX\NiagaraFluids\Intermediate\Build\Win64\x64\UnrealGame\Development\NiagaraFluids\Module.NiagaraFluids.cpp.obj"
 "..\Plugins\2D\Paper2D\Intermediate\Build\Win64\x64\UnrealGame\Development\Paper2D\Module.Paper2D.cpp.obj"
 "..\Plugins\AI\AISupport\Intermediate\Build\Win64\x64\UnrealGame\Development\AISupportModule\Module.AISupportModule.cpp.obj"
 "..\Plugins\Animation\ACLPlugin\Intermediate\Build\Win64\x64\UnrealGame\Development\ACLPlugin\Module.ACLPlugin.cpp.obj"
