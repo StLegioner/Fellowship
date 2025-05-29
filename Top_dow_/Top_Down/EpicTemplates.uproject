@@ -37,7 +37,7 @@
 		},
 		{
 			"Name": "EasyPopup",
-			"Enabled": true
+			"Enabled": false
 		},
 		{
 			"Name": "WaveformEditor",
@@ -49,6 +49,14 @@
 		},
 		{
 			"Name": "AudioGameplayVolume",
+			"Enabled": true
+		},
+		{
+			"Name": "ModelViewViewModelPreview",
+			"Enabled": true
+		},
+		{
+			"Name": "ModelViewViewModel",
 			"Enabled": true
 		}
 	]
