@@ -70,6 +70,10 @@
 		{
 			"Name": "ChaosClothEditor",
 			"Enabled": true
+		},
+		{
+			"Name": "OnlineSubsystemSteam",
+			"Enabled": true
 		}
 	]
 }
